@@ -1,0 +1,848 @@
+en adress	substantiv
+en advokat	substantiv
+en affär	substantiv
+en afton	substantiv
+en apelsin	substantiv
+en apparat	substantiv
+en arbetsplats	substantiv
+en arm	substantiv
+en ask	substantiv
+en askkopp	substantiv
+en avdelning	substantiv
+en axel	substantiv
+en bagare	substantiv
+en bakelse	substantiv
+en balkong	substantiv
+en bana	substantiv
+en banan	substantiv
+en bandspelare	substantiv
+en bar	substantiv
+en barnskötare	substantiv
+en berättelse	substantiv
+en bil	substantiv
+en bild	substantiv
+en biljett	substantiv
+en blomma	substantiv
+en blus	substantiv
+en bok	substantiv
+en boll	substantiv
+en brandman	substantiv
+en brevlåda	substantiv
+en bro / broder	substantiv
+en bulle	substantiv
+en buss	substantiv
+en bussförare	substantiv
+en butik	substantiv
+en båt	substantiv
+en bänk	substantiv
+en chaufför	substantiv
+en check	substantiv
+en cigarrett	substantiv
+en citron	substantiv
+en cykel	substantiv
+en dag	substantiv
+en dator	substantiv
+en deltagare	substantiv
+en diskbänk	substantiv
+en diskmaskin	substantiv
+en dotter	substantiv
+en dräkt	substantiv
+en duk	substantiv
+en dusch	substantiv
+en dörr	substantiv
+en elefant	substantiv
+en elev	substantiv
+en expedit	substantiv
+en fabrik	substantiv
+en familj	substantiv
+en far / fader	substantiv
+en farbror	substantiv
+en fax	substantiv
+en film	substantiv
+en fisk	substantiv
+en fjärrkontroll	substantiv
+en flaska	substantiv
+en flicka	substantiv
+en fluga	substantiv
+en flygplats	substantiv
+en fläkt	substantiv
+en fot	substantiv
+en fotboll	substantiv
+en fotbollspelare	substantiv
+en frisör	substantiv
+en fru	substantiv
+en frukost	substantiv
+en frukt	substantiv
+en frys	substantiv
+en fysiker	substantiv
+en fågel	substantiv
+en fåtölj	substantiv
+en färg	substantiv
+en förman	substantiv
+en förmiddag	substantiv
+en förälder	substantiv
+en gaffel	substantiv
+en gardin	substantiv
+en gata	substantiv
+en glass	substantiv
+en gran	substantiv
+en grönsak	substantiv
+en gurka	substantiv
+en hall	substantiv
+en hamn	substantiv
+en hand	substantiv
+en handduk	substantiv
+en handske	substantiv
+en hatt	substantiv
+en hund	substantiv
+en hustru	substantiv
+en hylla	substantiv
+en hållplats	substantiv
+en händelse	substantiv
+en häst	substantiv
+en högtalare	substantiv
+en idé	substantiv
+en idiot	substantiv
+en iranier	substantiv
+en italienare	substantiv
+en jacka	substantiv
+en jordgubbe	substantiv
+en journalist	substantiv
+en jumper	substantiv
+en järnvägsstation	substantiv
+en kaka	substantiv
+en kalender	substantiv
+en kam	substantiv
+en kamera	substantiv
+en kamrat	substantiv
+en karta	substantiv
+en kassa	substantiv
+en kasse	substantiv
+en kassörska	substantiv
+en katt	substantiv
+en kille	substantiv
+en kiosk	substantiv
+en kjol	substantiv
+en klocka	substantiv
+en klädhängare	substantiv
+en klänning	substantiv
+en kniv	substantiv
+en ko	substantiv
+en kokbok	substantiv
+en kompis	substantiv
+en kopp	substantiv
+en kostym	substantiv
+en kran	substantiv
+en krona	substantiv
+en kropp	substantiv
+en kudde	substantiv
+en kund	substantiv
+en kurs	substantiv
+en kusin	substantiv
+en kvinna	substantiv
+en kyl	substantiv
+en källare	substantiv
+en lampa	substantiv
+en lapp	substantiv
+en lucka	substantiv
+en lunch	substantiv
+en låda	substantiv
+en lägenhet	substantiv
+en läkare	substantiv
+en lärare	substantiv
+en läxa	substantiv
+en lök	substantiv
+en madrass	substantiv
+en maka	substantiv
+en make	substantiv
+en mamma	substantiv
+en man	substantiv
+en mangel	substantiv
+en maskin	substantiv
+en matta	substantiv
+en medicin	substantiv
+en mekaniker	substantiv
+en mening	substantiv
+en minut	substantiv
+en moder	substantiv
+en moder / mor	substantiv
+en morbror	substantiv
+en morgon	substantiv
+en morot	substantiv
+en moster	substantiv
+en mugg	substantiv
+en mun	substantiv
+en musiker	substantiv
+en målare	substantiv
+en månad	substantiv
+en människa	substantiv
+en möbel	substantiv
+en mössa	substantiv
+en nagel	substantiv
+en natt	substantiv
+en nyckel	substantiv
+en ordningsman	substantiv
+en ort	substantiv
+en pappa	substantiv
+en paprika	substantiv
+en park	substantiv
+en peng	substantiv
+en penna	substantiv
+en pennvässare	substantiv
+en person	substantiv
+en personuppgift	substantiv
+en pipa	substantiv
+en plånbok	substantiv
+en pojke	substantiv
+en polis	substantiv
+en post	substantiv
+en påse	substantiv
+en påve	substantiv
+en pärm	substantiv
+en rad	substantiv
+en radio	substantiv
+en rand	substantiv
+en restaurang	substantiv
+en ring	substantiv
+en rock	substantiv
+en ros	substantiv
+en rot	substantiv
+en räkning	substantiv
+en sak	substantiv
+en sand	substantiv
+en servitris	substantiv
+en servitör	substantiv
+en sida	substantiv
+en signal	substantiv
+en sjöman	substantiv
+en sked	substantiv
+en skillnad	substantiv
+en sko	substantiv
+en skog	substantiv
+en skola	substantiv
+en skomakare	substantiv
+en skådespelare	substantiv
+en släkting	substantiv
+en soffa	substantiv
+en sol	substantiv
+en somalier	substantiv
+en sommar	substantiv
+en son	substantiv
+en soppa	substantiv
+en sotare	substantiv
+en spegel	substantiv
+en spis	substantiv
+en stad	substantiv
+en stam	substantiv
+en station	substantiv
+en stereo	substantiv
+en stol	substantiv
+en strand	substantiv
+en strumpa	substantiv
+en svärson	substantiv
+en syster	substantiv
+en säng	substantiv
+en tabell	substantiv
+en tand	substantiv
+en tandborste	substantiv
+en tandkräm	substantiv
+en tanke	substantiv
+en tavla	substantiv
+en taxichaufför	substantiv
+en te	substantiv
+en teater	substantiv
+en tekniker	substantiv
+en telefon	substantiv
+en telefonsvarare	substantiv
+en teve	substantiv
+en text	substantiv
+en tid	substantiv
+en tidning	substantiv
+en timme	substantiv
+en tjej	substantiv
+en toalett	substantiv
+en toalettstol	substantiv
+en tomat	substantiv
+en tomte	substantiv
+en torktumlare	substantiv
+en trappa	substantiv
+en triangel	substantiv
+en tröja	substantiv
+en tulpan	substantiv
+en turist	substantiv
+en tvål	substantiv
+en tvättfat	substantiv
+en tvättmaskin	substantiv
+en tvättstuga	substantiv
+en tå	substantiv
+en tårta	substantiv
+en tändare	substantiv
+en vante	substantiv
+en vara	substantiv
+en vecka	substantiv
+en verkstad	substantiv
+en video	substantiv
+en villa	substantiv
+en vinter	substantiv
+en våning	substantiv
+en vår	substantiv
+en vårdcentral	substantiv
+en vägg	substantiv
+en vän	substantiv
+en väska	substantiv
+en åker	substantiv
+en ändelse	substantiv
+en öken	substantiv
+en övning	substantiv
+ett ansikte	substantiv
+ett apotek	substantiv
+ett arbete	substantiv
+ett armband	substantiv
+ett askfat	substantiv
+ett badkar	substantiv
+ett badrum	substantiv
+ett barn	substantiv
+ett ben	substantiv
+ett berg	substantiv
+ett besök	substantiv
+ett bibliotek	substantiv
+ett bilmärke	substantiv
+ett block	substantiv
+ett bord	substantiv
+ett brev	substantiv
+ett bröd	substantiv
+ett bälte	substantiv
+ett café	substantiv
+ett checkhäfte	substantiv
+ett dagis	substantiv
+ett datum	substantiv
+ett element	substantiv
+ett exempel	substantiv
+ett flerfamiljhus	substantiv
+ett foto	substantiv
+ett frimärke	substantiv
+ett fängelse	substantiv
+ett fönster	substantiv
+ett glas	substantiv
+ett golv	substantiv
+ett guld	substantiv
+ett hallon	substantiv
+ett halsband	substantiv
+ett hav	substantiv
+ett hem	substantiv
+ett hjärta	substantiv
+ett huss	substantiv
+ett huvud	substantiv
+ett hårstrå	substantiv
+ett häfte	substantiv
+ett intresse	substantiv
+ett jobb	substantiv
+ett kafé	substantiv
+ett kapitel	substantiv
+ett knä	substantiv
+ett konto	substantiv
+ett kvitto	substantiv
+ett kök	substantiv
+ett land	substantiv
+ett lexikon	substantiv
+ett meddelande	substantiv
+ett namn	substantiv
+ett nummer	substantiv
+ett område	substantiv
+ett ord	substantiv
+ett paket	substantiv
+ett papper	substantiv
+ett par	substantiv
+ett pass	substantiv
+ett piano	substantiv
+ett plommon	substantiv
+ett porto	substantiv
+ett pris	substantiv
+ett problem	substantiv
+ett program	substantiv
+ett päron	substantiv
+ett radergummi	substantiv
+ett rum	substantiv
+ett salt	substantiv
+ett samtal	substantiv
+ett schampo	substantiv
+ett schema	substantiv
+ett skåp	substantiv
+ett snöre	substantiv
+ett sovrum	substantiv
+ett spel	substantiv
+ett språk	substantiv
+ett strykbräde	substantiv
+ett strykjärn	substantiv
+ett ställe	substantiv
+ett suddgummi	substantiv
+ett svar	substantiv
+ett syskon	substantiv
+ett system	substantiv
+ett tak	substantiv
+ett toaletpapper	substantiv
+ett torg	substantiv
+ett torkskåp	substantiv
+ett träd	substantiv
+ett tuggummi	substantiv
+ett tvättställ	substantiv
+ett tyg	substantiv
+ett tåg	substantiv
+ett täcke	substantiv
+ett universitet	substantiv
+ett vardagsrum	substantiv
+ett vatten	substantiv
+ett väder	substantiv
+ett år	substantiv
+ett ägg	substantiv
+ett äpple	substantiv
+ett ärende	substantiv
+ett öga	substantiv
+ett öra	substantiv
+abbrevierar	verb
+abdikerar	verb
+abducerar	verb
+aberrerar	verb
+abonnerar	verb
+aborterar	verb
+abraderar	verb
+absenterar	verb
+absolverar	verb
+absorberar	verb
+abstraherar	verb
+accelererar	verb
+accentuerar	verb
+accepterar	verb
+acklimatiserar	verb
+ackommoderar	verb
+ackompanjerar	verb
+ackorderar	verb
+ackrediterar	verb
+ackumulerar	verb
+ackvirerar	verb
+ackår	verb
+adapterar	verb
+addar	verb
+adderar	verb
+adducerar	verb
+adjungerar	verb
+adlar	verb
+administrerar	verb
+admitterar	verb
+adopterar	verb
+adresserar	verb
+adsorberar	verb
+aducerar	verb
+advocerar	verb
+afbrytar	verb
+afficierar	verb
+affinerar	verb
+affirmerar	verb
+affischerar	verb
+afgår	verb
+afser	verb
+afskrifvar	verb
+afskyr	verb
+agar	verb
+agerar	verb
+agglutinerar	verb
+aggraverar	verb
+aggregerar	verb
+agiterar	verb
+appellerar	verb
+applicerar	verb
+applåderar	verb
+apporterar	verb
+apprecierar	verb
+appreterar	verb
+approberar	verb
+approcherar	verb
+approximerar	verb
+apterar	verb
+arabiserar	verb
+arbetar	verb
+arbeta svartr	verb
+argumenterar	verb
+arkaiserar	verb
+arkebuserar	verb
+arkiverar	verb
+armbågar	verb
+armerar	verb
+arrar	verb
+arrangerar	verb
+arrenderar	verb
+arresterar	verb
+arronderar	verb
+artar	verb
+artasr	verb
+artbestämmar	verb
+artikulerar	verb
+asar	verb
+asfalterar	verb
+asgarvar	verb
+askar	verb
+aspirerar	verb
+assignerar	verb
+assimilerar	verb
+assisterar	verb
+associerar	verb
+assurerar	verb
+atrofierar	verb
+attachar	verb
+attackerar	verb
+attesterar	verb
+attraherar	verb
+attribuerar	verb
+attributerar	verb
+auktionerar	verb
+auktoriserar	verb
+auskulterar	verb
+autentiserar	verb
+automatiserar	verb
+avregistrerar	verb
+avrekryterar	verb
+avrundar	verb
+avrådar	verb
+avrättar	verb
+avser	verb
+avskaffar	verb
+avskedar	verb
+avskiljar	verb
+avskrivar	verb
+avskräckar	verb
+avskyr	verb
+avskärmar	verb
+avslutar	verb
+avslår	verb
+avslöjar	verb
+avsomnar	verb
+avspeglar	verb
+avspärrar	verb
+avstavar	verb
+avstår	verb
+avsynar	verb
+avsägar	verb
+avsändar	verb
+avsättar	verb
+avsöndrar	verb
+avtar	verb
+avtackar	verb
+avtagar	verb
+avtalar	verb
+avträdar	verb
+avundasr	verb
+avvaktar	verb
+avvarar	verb
+avvecklar	verb
+avverkar	verb
+avvikar	verb
+avvisar	verb
+avvittrar	verb
+avvänjar	verb
+avväpnar	verb
+avvärjar	verb
+avyttrar	verb
+axar	verb
+axlar	verb
+babblar	verb
+backar	verb
+backa omr	verb
+backa uppr	verb
+badar	verb
+belamrar	verb
+belastar	verb
+beler	verb
+beledsagar	verb
+beliggar	verb
+belysar	verb
+beläggar	verb
+belönar	verb
+bemannar	verb
+bemästrar	verb
+bemödar	verb
+bemötar	verb
+benar	verb
+bena utr	verb
+beneventerar	verb
+benämnar	verb
+beordrar	verb
+bepansrar	verb
+beprydar	verb
+beramar	verb
+beredar	verb
+bergtagar	verb
+berikar	verb
+beriktigar	verb
+beror	verb
+beropar	verb
+berusar	verb
+beräknar	verb
+berättar	verb
+berättigar	verb
+berömmar	verb
+berörar	verb
+berövar	verb
+besar	verb
+beser	verb
+beseglar	verb
+besegrar	verb
+besiktar	verb
+besiktigar	verb
+besinnar	verb
+besittar	verb
+besjälar	verb
+beskattar	verb
+beskjutar	verb
+beskor	verb
+beskrattar	verb
+beskrifvar	verb
+beskrivar	verb
+beskuggar	verb
+beskyddar	verb
+blästrar	verb
+blödar	verb
+blötar	verb
+blötnar	verb
+bor	verb
+boaserar	verb
+bockar	verb
+bogserar	verb
+bojkottar	verb
+bokar	verb
+bokförar	verb
+bokstaverar	verb
+bolagiserar	verb
+bollar	verb
+bolmar	verb
+bolstrar	verb
+bombar	verb
+bombarderar	verb
+bombhotar	verb
+bommar	verb
+bondar	verb
+bongar	verb
+boniterar	verb
+bonnar	verb
+boostar	verb
+bootar	verb
+borr	verb
+bordläggar	verb
+borgar	verb
+bornerar	verb
+borrar	verb
+borstar	verb
+bortkastar	verb
+bortser	verb
+bortslängar	verb
+bosättar	verb
+botar	verb
+botaniserar	verb
+bottenfiskar	verb
+bottnar	verb
+bowlar	verb
+boxar	verb
+boxasr	verb
+braitar	verb
+brakar	verb
+brandskattar	verb
+braskar	verb
+brassar	verb
+brassa pår	verb
+braverar	verb
+debiterar	verb
+debuterar	verb
+decentraliserar	verb
+dechiffrerar	verb
+deciderar	verb
+decimerar	verb
+dedicerar	verb
+dedikerar	verb
+deducerar	verb
+defenderar	verb
+defenestrerar	verb
+defilerar	verb
+definierar	verb
+deformerar	verb
+defosforylerar	verb
+degar	verb
+degenererar	verb
+degraderar	verb
+dehydrerar	verb
+dejeunerar	verb
+dejsar	verb
+dejtar	verb
+dekanterar	verb
+dekapiterar	verb
+deklamerar	verb
+deklarerar	verb
+deklasserar	verb
+deklinerar	verb
+dekorerar	verb
+dekrediterar	verb
+dekreterar	verb
+delar	verb
+dela med sigr	verb
+dela uppr	verb
+delegerar	verb
+deletar	verb
+delger	verb
+deltar	verb
+deltagar	verb
+demaskerar	verb
+dementerar	verb
+demilitariserar	verb
+demissionerar	verb
+demobiliserar	verb
+demokratiserar	verb
+demolerar	verb
+demonstrerar	verb
+demonterar	verb
+demoraliserar	verb
+denationaliserar	verb
+friterar	verb
+frodasr	verb
+fronderar	verb
+frosar	verb
+frossar	verb
+frossader	verb
+frostar	verb
+frotterar	verb
+fruar	verb
+frukosterar	verb
+fruktar	verb
+frysar	verb
+frysa ihjälr	verb
+frågar	verb
+fråga utr	verb
+frångår	verb
+frånsägar	verb
+fråntar	verb
+frånträdar	verb
+frånvarar	verb
+frälsar	verb
+främjar	verb
+fräsar	verb
+frätar	verb
+frösar	verb
+fubbar	verb
+fuktar	verb
+fullbordar	verb
+fullföljar	verb
+fullgörar	verb
+fulländar	verb
+fulnar	verb
+fumlar	verb
+funderar	verb
+fungerar	verb
+funkar	verb
+funktionerar	verb
+furagerar	verb
+furnerar	verb
+fusiljerar	verb
+fuskar	verb
+fykar	verb
+fylkar	verb
+fylkasr	verb
+fyllar	verb
+fylla en funktionr	verb
+fylla ir	verb
+fylla sin funktionr	verb
+fylla årr	verb
+fyllnar	verb
+förhastar	verb
+förhindrar	verb
+förhyrar	verb
+förhållar	verb
+förhärligar	verb
+förhävar	verb
+förhäxar	verb
+förhörar	verb
+förintar	verb
+förirrar	verb
+förkastar	verb
+förklarar	verb
+förklenar	verb
+förklingar	verb
+förklär	verb
+förknippar	verb
+förkortar	verb
+förkovrar	verb
+förkrossar	verb
+förkunnar	verb
+förlamar	verb
+förlapskar	verb
+förledar	verb
+förlidar	verb
+förlikar	verb
+förlisar	verb
+förlitar	verb
+förljudasr	verb
+förlorar	verb
+förlovar	verb
+förlåtar	verb
+förläggar	verb
+förlänar	verb
+förlängar	verb
+förlöjligar	verb
+förlöpar	verb
+förmedlar	verb
+förmenar	verb
+förmerar	verb
+förminskar	verb
+förmodar	verb
+förmytikar	verb
+förmår	verb
+förmälar	verb
+förmörkar	verb
+förnaglar	verb
+förnedrar	verb
+förnekar	verb
+förnimmar	verb
+förnyar	verb
+ljusnar	verb
+ljutar	verb
+ljuta dödenr	verb
+lobbar	verb
+lobotomerar	verb
+lockar	verb
+lodar	verb
+lofvar	verb
+logaritmerar	verb
+logerar	verb
+loggar	verb
+logga inr	verb
+logga utr	verb
+lokaliserar	verb
+lommar	verb
+lortar	verb
+lorta nerr	verb
+loskar	verb
+lossar	verb
+lossnar	verb
+lottar	verb
+lovar	verb
+lova gottr	verb
+lovordar	verb
+luar	verb
+lubbar	verb
+luckrar	verb
+lufsar	verb
+luftar	verb
+lugnar	verb
+lukar	verb
+lukrerar	verb
+luktar	verb
+lumpar	verb
+lunchar	verb
+lunkar	verb
+lurar	verb
+lurrar	verb
+luskar	verb
+lussar	verb
+lutar	verb
+luttrar	verb
+luvår	verb
+lyckar	verb
+lyckasr	verb
+lydar	verb
+

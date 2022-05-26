@@ -1,0 +1,1 @@
+Sopkvast 2 {Borstfärg: java.awt.Color[r=255,g=255,b=255], Handtagsfärg: java.awt.Color[r=255,g=255,b=0]}
